@@ -1,6 +1,8 @@
 <h1>
 Hello , I am Talha Sadaqat
-   <img src="https://dribbble.com/shots/4801105-Late-night-coding?utm_source=Clipboard_Shot&utm_campaign=afsalcreations&utm_content=Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=afsalcreations&utm_content=Animation&utm_medium=Social_Share" width="30px"/>
+   <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 </h1>
 
 📷 About Me  
@@ -13,7 +15,7 @@ Hello , I am Talha Sadaqat
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 <h2>Tech Stack </h2>
-"https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="600" height="300"/>
 
 <!---
 Computer science has helped revolutionize the world making life easier and work more productive for businesses. I have spent my life in Dubai, 
