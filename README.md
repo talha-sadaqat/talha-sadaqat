@@ -13,6 +13,7 @@ Hello , I am Talha Sadaqat
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 <h2>Tech Stack </h2>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <!---
 Computer science has helped revolutionize the world making life easier and work more productive for businesses. I have spent my life in Dubai, 
