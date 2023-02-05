@@ -36,7 +36,10 @@ Hello , I am Talha Sadaqat
  
  <div align="center" dir="auto">
  <h3 ></b>Connect with me:</b></h3>
-  </div>
+  </div>  
+  <a href="https://www.linkedin.com/in/talha-sadaqat/" rel="nofollow">
+  <img align="center" alt="Talha Sadaqat | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
+</a>
 
 <!---
 Computer science has helped revolutionize the world making life easier and work more productive for businesses. I have spent my life in Dubai, 
