@@ -1,9 +1,8 @@
 <h1>
 Hello , I am Talha Sadaqat
-   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
-</h1>
 
 📷 About Me  
 
@@ -11,9 +10,7 @@ Hello , I am Talha Sadaqat
 
 :zap: Studying Computer Science at University of Guelph.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
+
 <h2>Tech Stack </h2>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="100" height="30"/>
 
