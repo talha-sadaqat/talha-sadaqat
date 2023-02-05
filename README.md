@@ -12,7 +12,7 @@
 - 👀 I’m interested in Cloud Computing , IT and Computer Science which makes our life easy and efficient 
 - 🌱 I’m currently doing a bachelors in Computer Science with a minor in marketing , and I have been exploring many other subjects such as Economics and Psychology
 - 💞️ I’m looking to collaborate on working with an IT or software developer company to broaden my skills and contribute to my society 
-- 📫 You can reach me using my mail : msadaqat@uoguelph.ca or my phone number: 519-731-0388
+- 📫 You can reach me using my mail : msadaqat@uoguelph.ca
 
 <!---
 Computer science has helped revolutionize the world making life easier and work more productive for businesses. I have spent my life in Dubai, 
