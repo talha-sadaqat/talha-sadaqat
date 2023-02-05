@@ -38,7 +38,7 @@ Hello , I am Talha Sadaqat
  <h3 ></b>Connect with me:</b></h3>
   </div>  
   <a href="https://www.linkedin.com/in/talha-sadaqat/" rel="nofollow">
-  <img align="right" alt="Talha Sadaqat | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
+  <img align="center" alt="Talha Sadaqat | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
 </a>
 
 <!---
