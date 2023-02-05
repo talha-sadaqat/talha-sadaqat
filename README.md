@@ -14,6 +14,9 @@
 - 💞️ I’m looking to collaborate on working with an IT or software developer company to broaden my skills and contribute to my society 
 - 📫 You can reach me using my mail : msadaqat@uoguelph.ca
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 Tech Stack
 
 <!---
