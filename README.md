@@ -12,7 +12,7 @@ Hello , I am Talha Sadaqat
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
-Tech Stack
+<h2>Tech Stack </h2>
 
 <!---
 Computer science has helped revolutionize the world making life easier and work more productive for businesses. I have spent my life in Dubai, 
