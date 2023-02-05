@@ -15,7 +15,7 @@
 - 📫 You can reach me using my mail : msadaqat@uoguelph.ca
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 Tech Stack
 
