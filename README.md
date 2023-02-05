@@ -1,6 +1,6 @@
 <h1>
 Hello , I am Talha Sadaqat
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   <img src="https://dribbble.com/shots/4801105-Late-night-coding?utm_source=Clipboard_Shot&utm_campaign=afsalcreations&utm_content=Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=afsalcreations&utm_content=Animation&utm_medium=Social_Share" width="30px"/>
 </h1>
 
 📷 About Me  
