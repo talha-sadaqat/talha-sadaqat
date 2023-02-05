@@ -24,6 +24,9 @@ Hello , I am Talha Sadaqat
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width="100" height="30"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" width="100" height="30"/>
  </p>
+ 
+ 
+ <h4>Back End: </h4>  
 
 <!---
 Computer science has helped revolutionize the world making life easier and work more productive for businesses. I have spent my life in Dubai, 
