@@ -8,11 +8,9 @@
   </a>
 </div>
 
-- 👋 Hi, I’m Talha Sadaqat
-- 👀 I’m interested in Cloud Computing , IT and Computer Science which makes our life easy and efficient 
-- 🌱 I’m currently doing a bachelors in Computer Science with a minor in marketing , and I have been exploring many other subjects such as Economics and Psychology
-- 💞️ I’m looking to collaborate on working with an IT or software developer company to broaden my skills and contribute to my society 
-- 📫 You can reach me using my mail : msadaqat@uoguelph.ca
+💻  About Me
+🤔   Exploring new technologies and developing programming skills.
+🎓   Studying Computer Science at University of Guelph.
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
