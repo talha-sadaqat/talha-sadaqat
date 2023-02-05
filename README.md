@@ -14,6 +14,8 @@
 - 💞️ I’m looking to collaborate on working with an IT or software developer company to broaden my skills and contribute to my society 
 - 📫 You can reach me using my mail : msadaqat@uoguelph.ca
 
+Tech Stack
+
 <!---
 Computer science has helped revolutionize the world making life easier and work more productive for businesses. I have spent my life in Dubai, 
 a country that is involving digital technology and artificial intelligence in almost every system, smart driving test, smart police stations, robotic surgery and many more. 
