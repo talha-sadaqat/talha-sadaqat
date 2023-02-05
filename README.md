@@ -2,6 +2,18 @@
   <img src= "https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200"/>
 </div>
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 - 👋 Hi, I’m Talha Sadaqat
 - 👀 I’m interested in Technology , IT and Computer Science which makes our life easy and efficient 
 - 🌱 I’m currently doing a bachelors in Computer Science with a minor in marketing , and I have been exploring many other subjects such as Economics and Psychology
