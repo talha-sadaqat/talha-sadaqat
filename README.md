@@ -4,6 +4,7 @@ Hello , I am Talha Sadaqat
 </h1>
 
 📷 About Me  
+
 :seedling:  Exploring new technologies and developing programming skills.
 
 :zap: Studying Computer Science at University of Guelph.
