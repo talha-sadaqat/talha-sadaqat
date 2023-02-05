@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src= "https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m Talha Sadaqat
 - 👀 I’m interested in Technology , IT and Computer Science which makes our life easy and efficient 
 - 🌱 I’m currently doing a bachelors in Computer Science with a minor in marketing , and I have been exploring many other subjects such as Economics and Psychology
