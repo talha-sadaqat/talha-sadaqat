@@ -13,7 +13,7 @@ Hello , I am Talha Sadaqat
 
 :zap: Studying Computer Science at University of Guelph.
 
-💌: My personal interests are Cloud computing and Ehtical Hacking.
+💌 My personal interests are Cloud computing and Ehtical Hacking.
 
 
 <h2>Tech Stack </h2>
