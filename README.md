@@ -31,10 +31,10 @@ Hello , I am Talha Sadaqat
  <h4>Back End: </h4>  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,git,kubernetes,docker,c" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,c++,git,kubernetes,docker,c" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
  
  <div align="center" dir="auto">
  <h3 ></b>Connect with me:</b></h3>
