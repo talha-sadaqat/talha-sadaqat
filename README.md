@@ -15,7 +15,7 @@ Hello , I am Talha Sadaqat
 
 
 <h2>Tech Stack </h2>
-<h4>Front End: </h4>  
+<h4>Languages and Tools:</h4>  
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="100" height="30"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="100" height="30"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="100" height="30"/>
@@ -31,7 +31,7 @@ Hello , I am Talha Sadaqat
  <h4>Back End: </h4>  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim, aws ,azure" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,git,kubernetes,docker,c" />
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
