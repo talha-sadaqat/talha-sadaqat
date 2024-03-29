@@ -9,7 +9,7 @@ Hello , I am Talha Sadaqat
 
 📷 About Me  
 
-:seedling:  Exploring new technologies and developing programming skills.
+:seedling: A computer scientist and aviation enthusiast, looking forward to utilizing programming to transform the field of aviation
 
 :zap: Studying Computer Science at University of Guelph.
 
