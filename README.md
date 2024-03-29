@@ -16,22 +16,12 @@ Hello , I am Talha Sadaqat
 
 <h2>Tech Stack </h2>
 <h4>Languages and Tools:</h4>  
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="100" height="30"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="100" height="30"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="100" height="30"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="100" height="30"/>
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" width="100" height="30"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" width="100" height="30"/>
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" width="100" height="30"/>
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" width="100" height="30"/>
 
- </p>
- 
  
  <h4>Back End: </h4>  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,git,jenkins,linux,kubernetes,docker,c,java,js,anaconda,bitbucket,cs,debian,fortran,graphql,mysql,mongodb,php" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,git,ts,jenkins,linux,react,redux,vue,kubernetes,docker,c,java,js,anaconda,bitbucket,cs,debian,fortran,graphql,mysql,mongodb,php,pytorch,py,svg,tensorflow,vscode,dotnet" />
   </a>
 </p>
 
