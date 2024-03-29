@@ -18,7 +18,6 @@ Hello , I am Talha Sadaqat
 <h4>Languages and Tools:</h4>  
 
  
- <h4>Back End: </h4>  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,cpp,git,ts,jenkins,linux,react,redux,vue,kubernetes,docker,c,java,js,anaconda,bitbucket,cs,debian,fortran,graphql,mysql,mongodb,php,pytorch,py,svg,tensorflow,vscode,dotnet" />
