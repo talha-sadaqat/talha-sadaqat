@@ -37,9 +37,7 @@ Work experience :
 - *Computer Networking: A Top-Down Approach* — Kurose & Ross  
 - *Introduction to Algorithms (CLRS)*  
 
----
 
-⚡ **Always learning. Always building.**
 
 
 
