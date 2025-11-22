@@ -12,8 +12,35 @@ Hello , I am Talha Sadaqat
 :seedling: Computer Scientist passionate about AI, data, and building scalable technology. My journey began in 2012 when I picked up Michael Sipser’s Introduction to the Theory of Computation, which sparked my love for computing. Since then, I’ve grown through project work and, ultimately, hands-on experience at Deloitte, Kenna, and TELUS. I’m driven by continuous learning, impactful engineering, and creating solutions that scale.
 Work experience : 
 
-Data Analytics Deloitte ( Sep 2025 - Pres)
-AI Engineer Telus ( 
+---
+
+## 💼 Work Experience  
+
+- **Data Analyst – Deloitte** *(Sep 2025 – Present)*  
+- **AI Engineer – TELUS** *(Sep 2024 – Aug 2025)*  
+- **Software Engineer – Kenna** *(May 2023 – Sept 2023)*  
+- **Data Analyst – Kenna** *(May 2022 – Dec 2022)*  
+
+---
+
+## 🎓 University Experience  
+
+- **Aircraft Systems & Software Developer – Gryphon Aerospace Club** *(Sept 2024 – May 2025)*  
+- **Undergraduate Teaching Assistant – Advanced C Programming & OOP** *(Sept 2024 – May 2025)*  
+- **Undergraduate Teaching Assistant – C Programming** *(Sept 2023 – May 2024)*  
+
+---
+
+## 📚 Books (Reading / Read)
+
+- *Introduction to the Theory of Computation* — Michael Sipser  
+- *Computer Networking: A Top-Down Approach* — Kurose & Ross  
+- *Introduction to Algorithms (CLRS)*  
+
+---
+
+⚡ **Always learning. Always building.**
+
 
 
 :zap: 
