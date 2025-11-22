@@ -21,7 +21,6 @@ Work experience :
 - **Software Engineer – Kenna** *(May 2023 – Sept 2023)*  
 - **Data Analyst – Kenna** *(May 2022 – Dec 2022)*  
 
----
 
 ## 🎓 University Experience  
 
@@ -29,15 +28,12 @@ Work experience :
 - **Undergraduate Teaching Assistant – Advanced C Programming & OOP** *(Sept 2024 – May 2025)*  
 - **Undergraduate Teaching Assistant – C Programming** *(Sept 2023 – May 2024)*  
 
----
 
 ## 📚 Books (Reading / Read)
 
 - *Introduction to the Theory of Computation* — Michael Sipser  
 - *Computer Networking: A Top-Down Approach* — Kurose & Ross  
 - *Introduction to Algorithms (CLRS)*  
-
-
 
 
 
