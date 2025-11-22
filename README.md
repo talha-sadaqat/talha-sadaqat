@@ -9,9 +9,14 @@ Hello , I am Talha Sadaqat
 
 📷 About Me  
 
-:seedling: A computer scientist and aviation enthusiast, looking forward to utilizing programming to transform the field of aviation
+:seedling: Computer Scientist passionate about AI, data, and building scalable technology. My journey began in 2012 when I picked up Michael Sipser’s Introduction to the Theory of Computation, which sparked my love for computing. Since then, I’ve grown through project work and, ultimately, hands-on experience at Deloitte, Kenna, and TELUS. I’m driven by continuous learning, impactful engineering, and creating solutions that scale.
+Work experience : 
 
-:zap: Studying Computer Science at University of Guelph.
+Data Analytics Deloitte ( Sep 2025 - Pres)
+AI Engineer Telus ( 
+
+
+:zap: 
 
 
 <h2>Tech Stack </h2>
