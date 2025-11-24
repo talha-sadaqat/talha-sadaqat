@@ -10,7 +10,7 @@ Hello , I am Talha Sadaqat
 📷 About Me  
 
 :seedling: Computer Scientist passionate about AI, data, and building scalable technology. My journey began in 2012 when I picked up Michael Sipser’s Introduction to the Theory of Computation, which sparked my love for computing. Since then, I’ve grown through project work and, ultimately, hands-on experience at Deloitte, Kenna, and TELUS. I’m driven by continuous learning, impactful engineering, and creating solutions that scale.
-Work experience : 
+
 
 ---
 
