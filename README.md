@@ -16,9 +16,8 @@ Work experience :
 
 ## 💼 Work Experience  
 
-- **Consultant (AI) – Deloitte** *(Sep 2025 – Present)*  
-- **AI Engineer – TELUS** *(Sep 2024 – Aug 2025)*
-- **Consultant (AI) – Deloitte** *(Jan 2024 – Aug 2024)*  
+- **Consultant – Deloitte** *(Sep 2025 – Present)*  
+- **Consultant  – Deloitte** *(Jan 2024 – Aug 2024)*  
 - **Software Engineer – Kenna** *(May 2023 – Sept 2023)*  
 - **Data Analyst – Kenna** *(May 2022 – Dec 2022)*  
 
