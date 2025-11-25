@@ -16,7 +16,8 @@ Hello , I am Talha Sadaqat
 
 ## 💼 Work Experience  
 
-- **Consultant Data Analytics – Deloitte** *(Sep 2025 – Present)*  
+- **Consultant Data Analytics – Deloitte** *(Sep 2025 – Present)*
+- **Software Deevloper – Gryphon Aerospace Club** *(Aug 2024 – Apr 2025)*  
 - **Consultant  – Deloitte** *(Jan 2024 – Aug 2024)*  
 - **Software Engineer – Kenna** *(May 2023 – Sept 2023)*  
 - **Data Analyst – Kenna** *(May 2022 – Dec 2022)*  
